@@ -6,9 +6,20 @@
     <description>Recent content in Tags on ikemen.tokyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <copyright>Copyright © 2019 ikemen.tokyo</copyright>
+    <lastBuildDate>Wed, 08 May 2019 23:29:33 +0900</lastBuildDate>
     
 	<atom:link href="http://ikemen.tokyo/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Note</title>
+      <link>http://ikemen.tokyo/tags/note/</link>
+      <pubDate>Wed, 08 May 2019 23:29:33 +0900</pubDate>
+      
+      <guid>http://ikemen.tokyo/tags/note/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
