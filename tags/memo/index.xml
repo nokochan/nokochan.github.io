@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ikemen.tokyo</title>
-    <link>http://ikemen.tokyo/post/</link>
-    <description>Recent content in Posts on ikemen.tokyo</description>
+    <title>Memo on ikemen.tokyo</title>
+    <link>http://ikemen.tokyo/tags/memo/</link>
+    <description>Recent content in Memo on ikemen.tokyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>Copyright © 2019 ikemen.tokyo</copyright>
     <lastBuildDate>Sun, 12 May 2019 23:09:04 +0900</lastBuildDate>
     
-	<atom:link href="http://ikemen.tokyo/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ikemen.tokyo/tags/memo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,15 +28,6 @@
       
       <guid>http://ikemen.tokyo/post/hugo%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
       <description>カスタマイズしてみた 日付表示変更 GoogleAnalytics設定追加 前後の記事に遷移できるボタン追加</description>
-    </item>
-    
-    <item>
-      <title>ブログはじめた</title>
-      <link>http://ikemen.tokyo/post/1st-post/</link>
-      <pubDate>Wed, 08 May 2019 23:29:33 +0900</pubDate>
-      
-      <guid>http://ikemen.tokyo/post/1st-post/</guid>
-      <description>インターネットに20年ぐらい触れているけれども ROM専で情報を消費するばかりだなーと 思いたったのでブログを始めてみました これから綴っていく情</description>
     </item>
     
   </channel>
